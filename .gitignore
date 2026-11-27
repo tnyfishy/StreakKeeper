@@ -1,0 +1,24 @@
+# Gradle & Build outputs
+.gradle/
+.kotlin/
+build/
+app/build/
+captures/
+.cxx/
+
+# Local environment & signing secrets
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# Packaged artifacts (distributed via GitHub Releases)
+*.apk
+*.apks
+*.aab
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
