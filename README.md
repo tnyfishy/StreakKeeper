@@ -1,7 +1,3 @@
-# Streak Keeper
-
-Ứng dụng gọn nhẹ giúp tự động nhắn tin tới các tài khoản TikTok của bạn (để giữ chuỗi).
-
 ## Tính năng chính
 
 - **Quét hộp thư TikTok tự động:** Tự cuộn và quét danh sách đoạn chat cá nhân & nhóm chat kèm tên hiển thị và ảnh đại diện.
